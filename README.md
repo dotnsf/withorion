@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Docker Compose** enablement for any nodejs app with **Eclipse Orion** editor.
+**Docker Compose** enablement for any nodejs app with **Eclipse Orion** editor to make them editable.
 
 
 ### How to run app in current directory with Eclipse Orion editor
